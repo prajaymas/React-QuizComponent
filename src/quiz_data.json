@@ -2,15 +2,33 @@
   "quiz_questions": [
     {
       "id": 1,
-      "instruction_text": "How many continents are there on Planet Earth?",
-      "answer_options": ["5", "6", "7", "8"],
-      "answer": "7"
+      "instruction_text": "What is my son's name?",
+      "answer_options": ["Mahanth", "Kanna", "Mac", "Kutty"],
+      "answer": "Mahanth"
     },
     {
       "id": 2,
-      "instruction_text": "What's your favorite number?",
-      "answer_options": ["1", "2", "3", "4"],
-      "answer": "4"
+      "instruction_text": "What's the name of Mahanth's School?",
+      "answer_options": ["MVM", "BVM", "St Johns", "Rion"],
+      "answer": "MVM"
+    },
+    {
+      "id": 3,
+      "instruction_text": "In Which Standard Mahanth is studying?",
+      "answer_options": ["LKG", "UKG", "I", "II"],
+      "answer": "I"
+    },
+    {
+      "id": 4,
+      "instruction_text": "Which is Mahanth's Favourite activity?",
+      "answer_options": ["Reading", "Playing", "Coding", "Art"],
+      "answer": "Coding"
+    },
+    {
+      "id": 4,
+      "instruction_text": "Who is Mahanth's Favourite Person?",
+      "answer_options": ["Mom", "Dad", "Grandma", "Brother"],
+      "answer": "Dad"
     }
   ]
 }
